@@ -1,2 +1,2 @@
 #!/bin/bash
-man bash | sed 's/\s/\n/g' | sort | uniq -c | sort -rn | awk '{ if (length($2) >= 4) print($2) }' | head -3
+man bash | grep -E -o "[[:alpha:]]{4,}" | sort | uniq -c | sort -rnk1 | head -3 | awk '{ print($2) }'

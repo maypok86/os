@@ -1,8 +1,8 @@
 #!/bin/bash
 
-if [[ $1 -ge $2 && $1 -ge $3  ]]
+if [[ $(echo "$1 <= $2" | bc) -eq 1 && $(echo "$1 <= $3" | bc) -eq 1 ]]
     then echo $1
-else if [[ $2 -ge $1 && $2 -ge $3 ]]
+else if [[ $(echo "$2 <= $1" | bc) -eq 1 && $(echo "$2 <= $3" | bc) -eq 1 ]]
     then echo $2
 else echo $3
 fi
