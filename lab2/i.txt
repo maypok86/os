@@ -1,114 +1,112 @@
-114
-1 : /usr/lib/systemd/systemd
-2 : [kthreadd]
-3 : [rcu_gp]
-4 : [rcu_par_gp]
-6 : [kworker/0:0H-events_highpri]
-9 : [mm_percpu_wq]
-10 : [ksoftirqd/0]
-11 : [rcu_sched]
-12 : [migration/0]
-13 : [watchdog/0]
-14 : [cpuhp/0]
-16 : [kdevtmpfs]
-17 : [netns]
-18 : [kauditd]
-19 : [khungtaskd]
-20 : [oom_reaper]
-21 : [writeback]
-22 : [kcompactd0]
-23 : [ksmd]
-24 : [khugepaged]
-25 : [crypto]
-26 : [kintegrityd]
-27 : [kblockd]
-28 : [blkcg_punt_bio]
-29 : [tpm_dev_wq]
-30 : [md]
-31 : [edac-poller]
-32 : [watchdogd]
-33 : [kworker/0:1H-kblockd]
-35 : [kworker/u2:1-events_unbound]
-49 : [kswapd0]
-142 : [kthrotld]
-143 : [acpi_thermal_pm]
-144 : [kmpath_rdacd]
-145 : [kaluad]
-146 : [ipv6_addrconf]
-148 : [kstrp]
-451 : [ata_sff]
-452 : [scsi_eh_0]
-453 : [scsi_tmf_0]
-454 : [scsi_eh_1]
-456 : [scsi_tmf_1]
-457 : [kworker/u2:2-events_unbound]
-458 : [scsi_eh_2]
-459 : [scsi_tmf_2]
-525 : [kdmflush]
-534 : [kdmflush]
-566 : [jbd2/dm-0-8]
-567 : [ext4-rsv-conver]
-656 : /usr/lib/systemd/systemd-journald
-690 : /usr/lib/systemd/systemd-udevd
-739 : [kdmflush]
-746 : [irq/18-vmwgfx]
-747 : [ttm_swap]
-748 : [card0-crtc0]
-749 : [card0-crtc1]
-750 : [card0-crtc2]
-751 : [card0-crtc3]
-752 : [card0-crtc4]
-753 : [card0-crtc5]
-754 : [card0-crtc6]
-755 : [card0-crtc7]
-775 : [jbd2/sda1-8]
-776 : [ext4-rsv-conver]
-779 : [xfsalloc]
-780 : [xfs_mru_cache]
-781 : [xfs-buf/dm-2]
-782 : [xfs-conv/dm-2]
-783 : [xfs-cil/dm-2]
-784 : [xfs-reclaim/dm-]
-785 : [xfs-eofblocks/d]
-786 : [xfs-log/dm-2]
-787 : [xfsaild/dm-2]
-814 : /usr/bin/rpcbind
-817 : /sbin/auditd
-819 : /usr/sbin/sedispatch
-835 : [rpciod]
-837 : [kworker/u3:0]
-839 : [xprtiod]
-858 : /usr/sbin/ModemManager
-859 : avahi-daemon:
-860 : /usr/sbin/smartd
-862 : /usr/bin/dbus-daemon
-864 : /usr/sbin/sssd
-866 : /usr/lib/polkit-1/polkitd
-868 : /usr/bin/lsmd
-878 : avahi-daemon:
-886 : /usr/sbin/rngd
-888 : /usr/libexec/sssd/sssd_be
-892 : /usr/libexec/platform-python
-893 : /usr/libexec/sssd/sssd_nss
-895 : /usr/lib/systemd/systemd-logind
-907 : /usr/sbin/NetworkManager
-920 : /usr/sbin/sshd
-922 : /usr/libexec/platform-python
-923 : /usr/sbin/gssproxy
-1144 : /usr/sbin/atd
-1147 : /usr/sbin/crond
-1148 : /sbin/agetty
-9323 : [kworker/0:2-mm_percpu_wq]
-12456 : [kworker/0:3-cgroup_destroy]
-13430 : [kworker/0:0-cgroup_pidlist_destroy]
-13832 : [kworker/u2:0-flush-253:2]
-14305 : [kworker/0:1-ata_sff]
-14311 : [kworker/0:4-events]
-14375 : sshd:
-14380 : /usr/lib/systemd/systemd
-14384 : (sd-pam)
-14390 : sshd:
-14391 : -zsh
-14828 : bash
-14831 : ps
-14832 : bash
+111
+1:/usr/lib/systemd/systemd
+2:[kthreadd]
+3:[rcu_gp]
+4:[rcu_par_gp]
+6:[kworker/0:0H-events_highpri]
+9:[mm_percpu_wq]
+10:[ksoftirqd/0]
+11:[rcu_sched]
+12:[migration/0]
+13:[watchdog/0]
+14:[cpuhp/0]
+16:[kdevtmpfs]
+17:[netns]
+18:[kauditd]
+19:[khungtaskd]
+20:[oom_reaper]
+21:[writeback]
+22:[kcompactd0]
+23:[ksmd]
+24:[khugepaged]
+25:[crypto]
+26:[kintegrityd]
+27:[kblockd]
+28:[blkcg_punt_bio]
+29:[tpm_dev_wq]
+30:[md]
+31:[edac-poller]
+32:[watchdogd]
+33:[kworker/0:1H-xfs-log/dm-2]
+35:[kworker/u2:1-xfs-cil/dm-2]
+49:[kswapd0]
+142:[kthrotld]
+143:[acpi_thermal_pm]
+144:[kmpath_rdacd]
+145:[kaluad]
+146:[ipv6_addrconf]
+148:[kstrp]
+454:[ata_sff]
+456:[scsi_eh_0]
+457:[scsi_tmf_0]
+458:[scsi_eh_1]
+459:[scsi_tmf_1]
+460:[scsi_eh_2]
+461:[kworker/u2:2-events_unbound]
+462:[scsi_tmf_2]
+525:[kdmflush]
+535:[kdmflush]
+568:[jbd2/dm-0-8]
+569:[ext4-rsv-conver]
+658:/usr/lib/systemd/systemd-journald
+686:/usr/lib/systemd/systemd-udevd
+737:[kdmflush]
+744:[irq/18-vmwgfx]
+745:[ttm_swap]
+746:[card0-crtc0]
+747:[card0-crtc1]
+748:[card0-crtc2]
+749:[card0-crtc3]
+750:[card0-crtc4]
+751:[card0-crtc5]
+752:[card0-crtc6]
+753:[card0-crtc7]
+772:[jbd2/sda1-8]
+773:[ext4-rsv-conver]
+776:[xfsalloc]
+777:[xfs_mru_cache]
+778:[xfs-buf/dm-2]
+779:[xfs-conv/dm-2]
+780:[xfs-cil/dm-2]
+781:[xfs-reclaim/dm-]
+782:[xfs-eofblocks/d]
+783:[xfs-log/dm-2]
+784:[xfsaild/dm-2]
+804:/usr/bin/rpcbind
+808:/sbin/auditd
+810:/usr/sbin/sedispatch
+822:[rpciod]
+823:[kworker/u3:0]
+824:[xprtiod]
+849:/usr/sbin/ModemManager
+852:avahi-daemon:
+853:/usr/sbin/sssd
+858:/usr/bin/lsmd
+861:/usr/lib/polkit-1/polkitd
+862:/usr/sbin/smartd
+863:/usr/bin/dbus-daemon
+869:/usr/sbin/rngd
+872:avahi-daemon:
+878:/usr/libexec/sssd/sssd_be
+883:/usr/libexec/sssd/sssd_nss
+884:/usr/libexec/platform-python
+886:/usr/lib/systemd/systemd-logind
+902:/usr/sbin/NetworkManager
+909:/usr/libexec/platform-python
+916:/usr/sbin/sshd
+919:/usr/sbin/gssproxy
+1137:/usr/sbin/atd
+1138:/usr/sbin/crond
+1139:/sbin/agetty
+1492:sshd:
+1498:/usr/lib/systemd/systemd
+1502:(sd-pam)
+1508:sshd:
+1509:-zsh
+4458:[kworker/0:1-events]
+11200:/usr/sbin/anacron
+16092:[kworker/0:2-events]
+17105:[kworker/0:0-ata_sff]
+18311:[kworker/0:3-events]
+18684:bash
+18685:ps

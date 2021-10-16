@@ -1,0 +1,109 @@
+919  :  0  :  /usr/sbin/gssproxy -D
+916  :  0  :  /usr/sbin/sshd -D -oCiphers=aes256-gcm@openssh.com,chacha20-poly1305@openssh.com,aes256-ctr,aes256-cbc,aes128-gcm@openssh.com,aes128-ctr,aes128-cbc -oMACs=hmac-sha2-256-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha2-256,hmac-sha1,umac-128@openssh.com,hmac-sha2-512 -oGSSAPIKexAlgorithms=gss-curve25519-sha256-,gss-nistp256-sha256-,gss-group14-sha256-,gss-group16-sha512-,gss-gex-sha1-,gss-group14-sha1- -oKexAlgorithms=curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group14-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1 -oHostKeyAlgorithms=ecdsa-sha2-nistp256,ecdsa-sha2-nistp256-cert-v01@openssh.com,ecdsa-sha2-nistp384,ecdsa-sha2-nistp384-cert-v01@openssh.com,ecdsa-sha2-nistp521,ecdsa-sha2-nistp521-cert-v01@openssh.com,ssh-ed25519,ssh-ed25519-cert-v01@openssh.com,rsa-sha2-256,rsa-sha2-256-cert-v01@openssh.com,rsa-sha2-512,rsa-sha2-512-cert-v01@openssh.com,ssh-rsa,ssh-rsa-cert-v01@openssh.com -oPubkeyAcceptedKeyTypes=ecdsa-sha2-nistp256,ecdsa-sha2-nistp256-cert-v01@openssh.com,ecdsa-sha2-nistp384,ecdsa-sha2-nistp384-cert-v01@openssh.com,ecdsa-sha2-nistp521,ecdsa-sha2-nistp521-cert-v01@openssh.com,ssh-ed25519,ssh-ed25519-cert-v01@openssh.com,rsa-sha2-256,rsa-sha2-256-cert-v01@openssh.com,rsa-sha2-512,rsa-sha2-512-cert-v01@openssh.com,ssh-rsa,ssh-rsa-cert-v01@openssh.com -oCASignatureAlgorithms=ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,ssh-ed25519,rsa-sha2-256,rsa-sha2-512,ssh-rsa
+9  :  0  :  [mm_percpu_wq]
+909  :  0  :  /usr/libexec/platform-python -Es /usr/sbin/tuned -l -P
+902  :  0  :  /usr/sbin/NetworkManager --no-daemon
+886  :  0  :  /usr/lib/systemd/systemd-logind
+884  :  0  :  /usr/libexec/platform-python -s /usr/sbin/firewalld --nofork --nopid
+883  :  0  :  /usr/libexec/sssd/sssd_nss --uid 0 --gid 0 --logger=files
+878  :  0  :  /usr/libexec/sssd/sssd_be --domain implicit_files --uid 0 --gid 0 --logger=files
+872  :  0  :  avahi-daemon: chroot helper
+869  :  0  :  /usr/sbin/rngd -f --fill-watermark=0
+863  :  0  :  /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+862  :  0  :  /usr/sbin/smartd -n -q never
+861  :  0  :  /usr/lib/polkit-1/polkitd --no-debug
+858  :  0  :  /usr/bin/lsmd -d
+853  :  0  :  /usr/sbin/sssd -i --logger=files
+852  :  0  :  avahi-daemon: running [ct.local]
+849  :  0  :  /usr/sbin/ModemManager
+824  :  0  :  [xprtiod]
+823  :  0  :  [kworker/u3:0]
+822  :  0  :  [rpciod]
+810  :  0  :  /usr/sbin/sedispatch
+808  :  0  :  /sbin/auditd
+804  :  0  :  /usr/bin/rpcbind -w -f
+784  :  0  :  [xfsaild/dm-2]
+783  :  0  :  [xfs-log/dm-2]
+782  :  0  :  [xfs-eofblocks/d]
+781  :  0  :  [xfs-reclaim/dm-]
+780  :  0  :  [xfs-cil/dm-2]
+779  :  0  :  [xfs-conv/dm-2]
+778  :  0  :  [xfs-buf/dm-2]
+777  :  0  :  [xfs_mru_cache]
+776  :  0  :  [xfsalloc]
+773  :  0  :  [ext4-rsv-conver]
+772  :  0  :  [jbd2/sda1-8]
+753  :  0  :  [card0-crtc7]
+752  :  0  :  [card0-crtc6]
+751  :  0  :  [card0-crtc5]
+750  :  0  :  [card0-crtc4]
+749  :  0  :  [card0-crtc3]
+748  :  0  :  [card0-crtc2]
+747  :  0  :  [card0-crtc1]
+746  :  0  :  [card0-crtc0]
+745  :  0  :  [ttm_swap]
+744  :  0  :  [irq/18-vmwgfx]
+737  :  0  :  [kdmflush]
+686  :  0  :  /usr/lib/systemd/systemd-udevd
+658  :  0  :  /usr/lib/systemd/systemd-journald
+6  :  0  :  [kworker/0:0H-events_highpri]
+569  :  0  :  [ext4-rsv-conver]
+568  :  0  :  [jbd2/dm-0-8]
+535  :  0  :  [kdmflush]
+525  :  0  :  [kdmflush]
+49  :  0  :  [kswapd0]
+462  :  0  :  [scsi_tmf_2]
+461  :  0  :  [kworker/u2:2-flush-253:0]
+460  :  0  :  [scsi_eh_2]
+459  :  0  :  [scsi_tmf_1]
+458  :  0  :  [scsi_eh_1]
+457  :  0  :  [scsi_tmf_0]
+456  :  0  :  [scsi_eh_0]
+454  :  0  :  [ata_sff]
+4  :  0  :  [rcu_par_gp]
+35  :  0  :  [kworker/u2:1-xfs-cil/dm-2]
+33  :  0  :  [kworker/0:1H-kblockd]
+32  :  0  :  [watchdogd]
+31  :  0  :  [edac-poller]
+3  :  0  :  [rcu_gp]
+30  :  0  :  [md]
+29  :  0  :  [tpm_dev_wq]
+28  :  0  :  [blkcg_punt_bio]
+27  :  0  :  [kblockd]
+26760  :  0  :  bash vii.sh
+26  :  0  :  [kintegrityd]
+25  :  0  :  [crypto]
+24111  :  0  :  [kworker/0:0-events]
+24  :  0  :  [khugepaged]
+23104  :  0  :  [kworker/0:1-ata_sff]
+23  :  0  :  [ksmd]
+22  :  0  :  [kcompactd0]
+21  :  0  :  [writeback]
+21028  :  0  :  -zsh
+21027  :  0  :  sshd: maypok@pts/0
+21021  :  0  :  (sd-pam)
+21017  :  0  :  /usr/lib/systemd/systemd --user
+21012  :  0  :  sshd: maypok [priv]
+2  :  0  :  [kthreadd]
+20845  :  0  :  [kworker/0:3-events]
+20  :  0  :  [oom_reaper]
+19  :  0  :  [khungtaskd]
+18  :  0  :  [kauditd]
+17  :  0  :  [netns]
+16  :  0  :  [kdevtmpfs]
+148  :  0  :  [kstrp]
+146  :  0  :  [ipv6_addrconf]
+145  :  0  :  [kaluad]
+144  :  0  :  [kmpath_rdacd]
+143  :  0  :  [acpi_thermal_pm]
+142  :  0  :  [kthrotld]
+14  :  0  :  [cpuhp/0]
+13  :  0  :  [watchdog/0]
+12  :  0  :  [migration/0]
+1139  :  0  :  /sbin/agetty -o -p -- \u --noclear tty1 linux
+1138  :  0  :  /usr/sbin/crond -n
+1137  :  0  :  /usr/sbin/atd -f
+11200  :  0  :  /usr/sbin/anacron -s
+11  :  0  :  [rcu_sched]
+1  :  0  :  /usr/lib/systemd/systemd --switched-root --system --deserialize 16
+10  :  0  :  [ksoftirqd/0]

@@ -1,2 +1,2 @@
-817
-1148
+    808 /sbin/auditd
+   1139 /sbin/agetty -o -p -- \u --noclear tty1 linux

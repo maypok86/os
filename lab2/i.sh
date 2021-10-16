@@ -2,6 +2,8 @@
 
 user="maypok"
 output="i.txt"
+ps -u $user -e -o pid,cmd --no-header > tmp
 
-ps -e -u $user | wc -l > $output
-ps -e -u $user -o pid,cmd --no-header | awk '{ print $1, ":", $2 }' >> $output
+cat tmp | wc -l > $output
+cat tmp | awk '{ print $1 ":" $2 }' >> $output
+rm tmp
