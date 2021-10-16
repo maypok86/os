@@ -1,6 +1,6 @@
 #!/bin/bash
 
-user="root"
+user="maypok"
 output="i.txt"
 
 ps -e -u $user | wc -l > $output
