@@ -1,18 +1,22 @@
-#include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
 #include <proc/readproc.h>
 
-// compile with:
-// gcc environ.c -lprocps -o bin/environ
-int main(){
+int main() {
+    PROCTAB* proc = openproc(PROC_FILLSTATUS);
+    proc_t proc_info;
+    memset(&proc_info, 0, sizeof(proc_info));
+    int max_pid = 0;
+    unsigned long max_vm_size = 0;
+    while (readproc(proc, &proc_info) != NULL) {
+        if (proc_info.vm_size > max_vm_size) {
+            max_vm_size = proc_info.vm_size;
+            max_pid = proc_info.tgid;
+        }
+    }
+    printf("PID:\t %d\n", max_pid);
+    printf("VmSize:\t %lu\n", max_vm_size);
+    closeproc(proc);
 
-  PROCTAB* proc = openproc(PROC_FILLSTAT);
-  proc_t proc_info;
-  memset(&proc_info, 0, sizeof(proc_info));
-  while (readproc(proc, &proc_info) != NULL) {
-    printf("%i,%i:\t %lu\n", proc_info.ppid, proc_info.tid, proc_info.maj_flt);
-  }
-  closeproc(proc);
+    return 0;
 }
-
