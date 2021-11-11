@@ -21,8 +21,11 @@ do
             if [[ -d $dir ]]; then
                 if [[ -f $real_path ]]; then
                     echo "File already exists"
+                    echo "Please, choose name for new file"
+                    read name
+                    ln $trashed_file $dir/$name
                     rm $trashed_file
-                    exit 1
+                    exit 0
                 fi
                 ln $trashed_file $real_path
             else

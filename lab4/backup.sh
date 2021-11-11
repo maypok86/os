@@ -4,7 +4,7 @@ backups=$(ls "$HOME/" | grep -o -E "Backup-[0-9]{4}-[0-9]{2}-[0-9]{2}")
 
 last_backup_name=""
 last_backup_time=0
-if [ "$backups" ]; then
+if [[ "$backups" ]]; then
     last_backup_name=$(echo "$backups" | tail -1)
     last_backup_date=$(echo "$backups" | grep -o -E "[0-9]{4}-[0-9]{2}-[0-9]{2}" | tail -n1)
     last_backup_time=$(date -d "$last_backup_date" +%s)
