@@ -1,0 +1,1248 @@
+Time: 12:22:56 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   5298.9 free,    686.0 used,    955.3 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6009.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0   97032  93008   2940 R 100.0   1.3   0:01.18 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0   97032  93008   2940 R 100.0   1.3   0:01.18 mem.bash
+   1295 root      20   0   28312  22708  10924 S  18.8   0.3   0:01.17 reflector
+    647 root      20   0 1267548 121836  74604 S   6.2   1.7   0:04.56 Xorg
+   1935 maypok    20   0   10808   4104   3460 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.67 systemd
+
+Time: 12:22:57 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   5201.9 free,    782.5 used,    955.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5912.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0  190752 186728   2940 R 100.0   2.6   0:02.39 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0  190752 186728   2940 R 100.0   2.6   0:02.39 mem.bash
+      7 root      20   0       0      0      0 I   6.7   0.0   0:00.33 kworker/u32:0-events_unbound
+     32 root      20   0       0      0      0 S   6.7   0.0   0:00.02 ksoftirqd/2
+    647 root      20   0 1267548 121836  74604 S   6.7   1.7   0:04.65 Xorg
+   1029 maypok    20   0   16440   7440   6320 S   6.7   0.1   0:01.01 picom
+
+Time: 12:22:58 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   5119.3 free,    865.2 used,    955.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5829.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0  283680 279656   2940 R  93.8   3.9   0:03.58 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0  283680 279656   2940 R  93.8   3.9   0:03.58 mem.bash
+    647 root      20   0 1267548 121836  74604 S   6.2   1.7   0:04.74 Xorg
+   1967 maypok    20   0   10808   4104   3460 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 12:22:59 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   5026.0 free,    958.4 used,    955.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5736.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0  377136 373112   2940 R 100.0   5.3   0:04.78 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0  377136 373112   2940 R 100.0   5.3   0:04.78 mem.bash
+   1029 maypok    20   0   16440   7440   6320 S  13.3   0.1   0:01.07 picom
+    647 root      20   0 1267548 121836  74604 S   6.7   1.7   0:04.82 Xorg
+   1984 maypok    20   0   10808   4124   3480 R   6.7   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+
+Time: 12:23:01 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   4930.3 free,   1054.2 used,    955.7 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5640.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0  469932 465776   2940 R 100.0   6.6   0:05.97 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0  469932 465776   2940 R 100.0   6.6   0:05.97 mem.bash
+    647 root      20   0 1267548 121836  74604 S   6.2   1.7   0:04.89 Xorg
+   1295 root      20   0   31384  24816  10924 S   6.2   0.3   0:01.22 reflector
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 12:23:02 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   4852.7 free,   1131.7 used,    955.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5563.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0  562332 558176   2940 R  93.8   7.9   0:07.16 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0  562332 558176   2940 R  93.8   7.9   0:07.16 mem.bash
+    647 root      20   0 1267548 121836  74604 S  12.5   1.7   0:04.97 Xorg
+   1029 maypok    20   0   16440   7440   6320 S   6.2   0.1   0:01.11 picom
+   1161 maypok    20   0  512796  17496   9104 S   6.2   0.2   0:00.08 mpd
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+
+Time: 12:23:03 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   4762.2 free,   1222.2 used,    955.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5472.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0  656184 652160   2940 R 100.0   9.2   0:08.37 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0  656184 652160   2940 R 100.0   9.2   0:08.37 mem.bash
+    647 root      20   0 1265448 121964  74732 S   6.2   1.7   0:05.05 Xorg
+   1029 maypok    20   0   16440   7440   6320 S   6.2   0.1   0:01.14 picom
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 12:23:04 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   4669.8 free,   1314.6 used,    955.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5380.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0  750036 745880   2940 R 100.0  10.5   0:09.57 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0  750036 745880   2940 R 100.0  10.5   0:09.57 mem.bash
+    647 root      20   0 1265448 121964  74732 S  12.5   1.7   0:05.14 Xorg
+   1050 maypok    20   0 1510308  88668  68840 S   6.2   1.2   0:01.09 plank
+   2060 maypok    20   0   10808   3960   3316 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+
+Time: 12:23:05 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   4578.4 free,   1406.0 used,    955.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5289.1 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0  843624 839600   2940 R  93.8  11.8   0:10.76 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0  843624 839600   2940 R  93.8  11.8   0:10.76 mem.bash
+   1029 maypok    20   0   16440   7440   6320 S   6.2   0.1   0:01.19 picom
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:23:07 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   4485.0 free,   1499.4 used,    955.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5195.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0  937740 933584   2940 R 100.0  13.1   0:11.97 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0  937740 933584   2940 R 100.0  13.1   0:11.97 mem.bash
+    462 root      -2   0       0      0      0 S   6.2   0.0   0:00.69 gfx
+    647 root      20   0 1265448 121964  74732 S   6.2   1.7   0:05.30 Xorg
+   2103 maypok    20   0   10808   4032   3384 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+
+Time: 12:23:08 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   4398.6 free,   1585.8 used,    955.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5109.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 1025388 997.3m   2940 R 100.0  14.4   0:13.18 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 1025388 997.3m   2940 R 100.0  14.4   0:13.18 mem.bash
+    647 root      20   0 1265448 121964  74732 S   6.2   1.7   0:05.38 Xorg
+   1029 maypok    20   0   16440   7440   6320 S   6.2   0.1   0:01.25 picom
+   1050 maypok    20   0 1510308  88668  68840 S   6.2   1.2   0:01.14 plank
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+
+Time: 12:23:09 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   4312.2 free,   1672.2 used,    955.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5022.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 1113960   1.1g   2940 R 100.0  15.6   0:14.38 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 1113960   1.1g   2940 R 100.0  15.6   0:14.38 mem.bash
+    647 root      20   0 1265448 121964  74732 S   6.7   1.7   0:05.43 Xorg
+   2135 maypok    20   0   10808   3980   3328 R   6.7   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 12:23:10 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   4220.7 free,   1763.7 used,    955.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4931.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 1208472   1.1g   2940 R  93.8  16.9   0:15.58 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 1208472   1.1g   2940 R  93.8  16.9   0:15.58 mem.bash
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 12:23:11 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   4128.5 free,   1856.0 used,    955.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4839.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 1302852   1.2g   2940 R  93.8  18.3   0:16.78 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 1302852   1.2g   2940 R  93.8  18.3   0:16.78 mem.bash
+   1161 maypok    20   0  512796  17496   9104 S   6.2   0.2   0:00.10 mpd
+   2178 maypok    20   0   10808   4104   3460 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 12:23:13 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   4032.3 free,   1948.7 used,    959.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4746.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 1397232   1.3g   2940 R 100.0  19.6   0:17.98 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 1397232   1.3g   2940 R 100.0  19.6   0:17.98 mem.bash
+   2194 maypok    20   0   10808   4136   3488 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:23:14 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   3939.5 free,   2041.4 used,    959.3 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4653.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 1492140   1.4g   2940 R 100.0  20.9   0:19.19 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 1492140   1.4g   2940 R 100.0  20.9   0:19.19 mem.bash
+   1047 maypok    20   0 1567320  22756  19168 S   6.2   0.3   0:00.35 polybar
+   2210 maypok    20   0   10808   4140   3488 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 12:23:15 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   3847.0 free,   2133.9 used,    959.3 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4561.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 1586520   1.5g   2940 R 100.0  22.3   0:20.40 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 1586520   1.5g   2940 R 100.0  22.3   0:20.40 mem.bash
+    647 root      20   0 1265448 121964  74732 S   6.2   1.7   0:05.45 Xorg
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:23:16 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   3754.9 free,   2226.0 used,    959.3 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4469.1 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 1681032   1.6g   2940 R 100.0  23.6   0:21.61 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 1681032   1.6g   2940 R 100.0  23.6   0:21.61 mem.bash
+   2255 maypok    20   0   10808   4164   3520 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:23:17 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   3661.2 free,   2319.6 used,    959.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4375.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 1776072   1.7g   2940 R  93.8  24.9   0:22.81 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 1776072   1.7g   2940 R  93.8  24.9   0:22.81 mem.bash
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 12:23:19 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   3568.8 free,   2412.1 used,    959.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4283.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 1870056   1.8g   2940 R 100.0  26.3   0:24.01 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 1870056   1.8g   2940 R 100.0  26.3   0:24.01 mem.bash
+   2287 maypok    20   0   10808   4056   3412 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:23:20 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   3474.9 free,   2505.9 used,    959.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4189.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 1964568   1.9g   2940 R  93.8  27.6   0:25.21 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 1964568   1.9g   2940 R  93.8  27.6   0:25.21 mem.bash
+   2314 maypok    20   0   10808   4152   3508 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:23:21 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   3382.4 free,   2598.5 used,    959.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4096.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 2058420   2.0g   2940 R  93.8  28.9   0:26.41 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 2058420   2.0g   2940 R  93.8  28.9   0:26.41 mem.bash
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 12:23:22 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   3289.5 free,   2691.3 used,    959.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4003.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 2153064   2.0g   2940 R 100.0  30.2   0:27.62 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 2153064   2.0g   2940 R 100.0  30.2   0:27.62 mem.bash
+   2346 maypok    20   0   10808   4104   3456 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:23:23 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   3198.2 free,   2782.6 used,    959.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3912.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 2246652   2.1g   2940 R 100.0  31.6   0:28.82 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 2246652   2.1g   2940 R 100.0  31.6   0:28.82 mem.bash
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 12:23:25 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   3106.9 free,   2873.9 used,    959.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3821.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 2341560   2.2g   2940 R 100.0  32.9   0:30.02 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 2341560   2.2g   2940 R 100.0  32.9   0:30.02 mem.bash
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 12:23:26 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   3017.9 free,   2962.9 used,    959.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3732.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 2433036   2.3g   2940 R  93.8  34.2   0:31.23 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 2433036   2.3g   2940 R  93.8  34.2   0:31.23 mem.bash
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 12:23:27 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   2926.0 free,   3054.8 used,    959.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3640.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 2527152   2.4g   2940 R  93.8  35.5   0:32.43 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 2527152   2.4g   2940 R  93.8  35.5   0:32.43 mem.bash
+   2421 maypok    20   0   10808   4164   3516 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:23:28 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   2837.9 free,   3142.9 used,    959.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3552.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 2617308   2.5g   2940 R 100.0  36.8   0:33.64 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 2617308   2.5g   2940 R 100.0  36.8   0:33.64 mem.bash
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 12:23:29 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   2741.0 free,   3239.8 used,    959.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3455.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 2711424   2.6g   2940 R 100.0  38.1   0:34.83 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 2711424   2.6g   2940 R 100.0  38.1   0:34.83 mem.bash
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 12:23:31 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   2651.7 free,   3329.1 used,    959.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3366.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 2800920   2.7g   2940 R  93.8  39.4   0:36.03 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 2800920   2.7g   2940 R  93.8  39.4   0:36.03 mem.bash
+   1161 maypok    20   0  512796  17496   9104 S   6.2   0.2   0:00.14 mpd
+   2480 maypok    20   0   10808   4160   3516 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 12:23:32 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   2556.5 free,   3424.3 used,    959.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3270.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 2895960   2.8g   2940 R  93.8  40.7   0:37.24 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 2895960   2.8g   2940 R  93.8  40.7   0:37.24 mem.bash
+   2496 maypok    20   0   10808   3960   3316 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:23:33 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   2466.2 free,   3514.6 used,    959.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3180.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 2987832   2.8g   2940 R  93.8  42.0   0:38.45 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 2987832   2.8g   2940 R  93.8  42.0   0:38.45 mem.bash
+   2512 maypok    20   0   10808   4116   3472 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:23:34 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   2372.7 free,   3608.1 used,    959.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3086.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 3082212   2.9g   2940 R  93.8  43.3   0:39.65 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 3082212   2.9g   2940 R  93.8  43.3   0:39.65 mem.bash
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 12:23:36 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   2279.8 free,   3701.0 used,    959.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   2994.1 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 3176328   3.0g   2940 R 100.0  44.6   0:40.86 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 3176328   3.0g   2940 R 100.0  44.6   0:40.86 mem.bash
+   2555 maypok    20   0   10808   4156   3508 R   6.7   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:23:37 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   2187.1 free,   3793.7 used,    959.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   2901.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 3270972   3.1g   2940 R  93.8  46.0   0:42.06 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 3270972   3.1g   2940 R  93.8  46.0   0:42.06 mem.bash
+   2571 maypok    20   0   10808   4132   3488 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:23:38 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   2093.1 free,   3887.7 used,    959.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   2807.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 3365748   3.2g   2940 R 100.0  47.3   0:43.27 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 3365748   3.2g   2940 R 100.0  47.3   0:43.27 mem.bash
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 12:23:39 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   1998.9 free,   3981.9 used,    959.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   2713.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 3460392   3.3g   2940 R 100.0  48.6   0:44.48 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 3460392   3.3g   2940 R 100.0  48.6   0:44.48 mem.bash
+   2603 maypok    20   0   10808   4124   3472 R   6.7   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:23:40 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   1905.4 free,   4075.4 used,    959.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   2619.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 3555168   3.4g   2940 R 100.0  50.0   0:45.68 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 3555168   3.4g   2940 R 100.0  50.0   0:45.68 mem.bash
+   2630 maypok    20   0   10808   4052   3396 R   6.7   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:23:42 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   1813.6 free,   4167.2 used,    959.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   2527.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 3649680   3.5g   2940 R 100.0  51.3   0:46.90 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 3649680   3.5g   2940 R 100.0  51.3   0:46.90 mem.bash
+   2646 maypok    20   0   10808   4108   3464 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:23:43 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   1718.3 free,   4261.5 used,    960.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   2433.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 3744192   3.6g   2940 R  93.8  52.6   0:48.10 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 3744192   3.6g   2940 R  93.8  52.6   0:48.10 mem.bash
+   2662 maypok    20   0   10808   4192   3536 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:23:44 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   1625.6 free,   4354.2 used,    960.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   2340.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 3838176   3.7g   2940 R  93.8  54.0   0:49.31 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 3838176   3.7g   2940 R  93.8  54.0   0:49.31 mem.bash
+   2678 maypok    20   0   10808   4116   3472 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:23:45 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   1536.5 free,   4443.3 used,    960.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   2251.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 3931896   3.7g   2940 R  93.8  55.3   0:50.50 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 3931896   3.7g   2940 R  93.8  55.3   0:50.50 mem.bash
+   2705 maypok    20   0   10808   4108   3456 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:23:46 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   1444.4 free,   4535.4 used,    960.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   2159.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 4025352   3.8g   2940 R 100.0  56.6   0:51.71 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 4025352   3.8g   2940 R 100.0  56.6   0:51.71 mem.bash
+   1047 maypok    20   0 1567320  22820  19168 S   6.2   0.3   0:00.52 polybar
+   2721 maypok    20   0   10808   4108   3460 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 12:23:48 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   1352.9 free,   4626.8 used,    960.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   2068.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 4119072   3.9g   2940 R  93.8  57.9   0:52.90 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 4119072   3.9g   2940 R  93.8  57.9   0:52.90 mem.bash
+   2737 maypok    20   0   10808   4108   3396 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:23:49 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   1259.9 free,   4719.8 used,    960.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   1975.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 4212924   4.0g   2940 R  93.8  59.2   0:54.10 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 4212924   4.0g   2940 R  93.8  59.2   0:54.10 mem.bash
+   2753 maypok    20   0   10808   4068   3424 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:23:50 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   1167.9 free,   4811.9 used,    960.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   1883.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 4306248   4.1g   2940 R  93.8  60.5   0:55.31 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 4306248   4.1g   2940 R  93.8  60.5   0:55.31 mem.bash
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 12:23:51 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,   1077.1 free,   4902.7 used,    960.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   1792.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 4399176   4.2g   2940 R 100.0  61.8   0:56.51 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 4399176   4.2g   2940 R 100.0  61.8   0:56.51 mem.bash
+   2796 maypok    20   0   10808   4028   3384 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:23:52 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    986.1 free,   4993.7 used,    960.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   1701.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 4492632   4.3g   2940 R 100.0  63.2   0:57.72 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 4492632   4.3g   2940 R 100.0  63.2   0:57.72 mem.bash
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 12:23:54 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    894.8 free,   5085.0 used,    960.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   1610.1 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 4585956   4.4g   2940 R  93.8  64.5   0:58.91 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 4585956   4.4g   2940 R  93.8  64.5   0:58.91 mem.bash
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 12:23:55 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    802.4 free,   5177.4 used,    960.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   1517.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 4680072   4.5g   2940 R 100.0  65.8   1:00.12 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 4680072   4.5g   2940 R 100.0  65.8   1:00.12 mem.bash
+   1161 maypok    20   0  512796  17496   9104 S   6.2   0.2   0:00.19 mpd
+   2854 maypok    20   0   10808   4168   3524 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 12:23:56 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    710.2 free,   5269.6 used,    960.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   1425.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 4773924   4.5g   2940 R 100.0  67.1   1:01.32 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 4773924   4.5g   2940 R 100.0  67.1   1:01.32 mem.bash
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 12:23:57 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    617.4 free,   5362.3 used,    960.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   1332.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 4867512   4.6g   2940 R 100.0  68.4   1:02.53 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 4867512   4.6g   2940 R 100.0  68.4   1:02.53 mem.bash
+   2887 maypok    20   0   10808   4168   3520 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:23:58 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    525.9 free,   5453.9 used,    960.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   1241.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 4961232   4.7g   2940 R 100.0  69.8   1:03.73 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 4961232   4.7g   2940 R 100.0  69.8   1:03.73 mem.bash
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 12:24:00 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    433.6 free,   5546.2 used,    960.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   1148.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 5054952   4.8g   2940 R  93.8  71.1   1:04.93 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 5054952   4.8g   2940 R  93.8  71.1   1:04.93 mem.bash
+   2919 maypok    20   0   10808   4120   3472 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:24:01 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    343.8 free,   5635.9 used,    960.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   1059.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 5148276   4.9g   2940 R 100.0  72.4   1:06.13 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 5148276   4.9g   2940 R 100.0  72.4   1:06.13 mem.bash
+   1047 maypok    20   0 1567320  22832  19168 S   6.7   0.3   0:00.59 polybar
+   2946 maypok    20   0   10808   3960   3316 R   6.7   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 12:24:02 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    252.2 free,   5727.6 used,    960.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.    967.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 5241996   5.0g   2940 R 100.0  73.7   1:07.34 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 5241996   5.0g   2940 R 100.0  73.7   1:07.34 mem.bash
+   2962 maypok    20   0   10808   4108   3396 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:24:03 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    160.2 free,   5819.5 used,    960.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.    875.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 5335452   5.1g   2940 R  93.8  75.0   1:08.55 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 5335452   5.1g   2940 R  93.8  75.0   1:08.55 mem.bash
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 12:24:04 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    119.9 free,   5903.6 used,    916.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.    791.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 5429040   5.2g   2940 R 100.0  76.3   1:09.76 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 5429040   5.2g   2940 R 100.0  76.3   1:09.76 mem.bash
+    136 root      20   0       0      0      0 S   6.2   0.0   0:00.02 kswapd0
+   1047 maypok    20   0 1567320  22832  19168 S   6.2   0.3   0:00.61 polybar
+   2994 maypok    20   0   10808   4112   3468 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+
+Time: 12:24:06 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    123.3 free,   5990.8 used,    826.1 buff/cache
+MiB Swap:   2048.0 total,   2045.2 free,      2.8 used.    704.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 5523420   5.3g   2940 R 100.0  77.7   1:10.97 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 5523420   5.3g   2940 R 100.0  77.7   1:10.97 mem.bash
+    136 root      20   0       0      0      0 S  13.3   0.0   0:00.08 kswapd0
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:24:07 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    120.3 free,   6071.0 used,    748.9 buff/cache
+MiB Swap:   2048.0 total,   2040.2 free,      7.8 used.    624.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 5617800   5.4g   2940 R  93.8  79.0   1:12.18 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 5617800   5.4g   2940 R  93.8  79.0   1:12.18 mem.bash
+    136 root      20   0       0      0      0 S   6.2   0.0   0:00.14 kswapd0
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:24:08 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    130.2 free,   6163.9 used,    646.1 buff/cache
+MiB Swap:   2048.0 total,   2040.2 free,      7.8 used.    531.1 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 5712180   5.4g   2940 R  93.8  80.3   1:13.40 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 5712180   5.4g   2940 R  93.8  80.3   1:13.40 mem.bash
+    136 root      20   0       0      0      0 S  12.5   0.0   0:00.20 kswapd0
+    153 root      20   0       0      0      0 D   6.2   0.0   0:00.34 kworker/u32:4+phy0
+    647 root      20   0 1265448 121964  74732 S   6.2   1.7   0:05.53 Xorg
+   3053 maypok    20   0   10808   3980   3332 R   6.2   0.1   0:00.01 top
+
+Time: 12:24:09 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    127.7 free,   6255.7 used,    556.7 buff/cache
+MiB Swap:   2048.0 total,   2040.2 free,      7.8 used.    439.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 5806164   5.5g   2940 R 100.0  81.6   1:14.61 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 5806164   5.5g   2940 R 100.0  81.6   1:14.61 mem.bash
+    136 root      20   0       0      0      0 S  12.5   0.0   0:00.28 kswapd0
+   3069 maypok    20   0   10808   4124   3476 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11352   8528 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 12:24:11 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    127.1 free,   6334.9 used,    478.2 buff/cache
+MiB Swap:   2048.0 total,   2039.9 free,      8.0 used.    360.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 5900676   5.6g   2940 R 100.0  83.0   1:15.83 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 5900676   5.6g   2940 R 100.0  83.0   1:15.83 mem.bash
+    136 root      20   0       0      0      0 S   6.2   0.0   0:00.35 kswapd0
+   3096 maypok    20   0   10808   4172   3524 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220  11348   8524 S   0.0   0.2   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 12:24:12 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    128.4 free,   6428.8 used,    383.0 buff/cache
+MiB Swap:   2048.0 total,   2039.9 free,      8.0 used.    266.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 5995188   5.7g   2936 R 100.0  84.3   1:17.04 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 5995188   5.7g   2936 R 100.0  84.3   1:17.04 mem.bash
+    136 root      20   0       0      0      0 S  13.3   0.0   0:00.48 kswapd0
+   3112 maypok    20   0   10808   4168   3512 R   6.7   0.1   0:00.01 top
+      1 root      20   0  165220   9208   6384 S   0.0   0.1   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 12:24:13 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    122.3 free,   6502.1 used,    315.7 buff/cache
+MiB Swap:   2048.0 total,   2039.7 free,      8.3 used.    185.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 6087852   5.8g   2932 R 100.0  85.6   1:18.26 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 6087852   5.8g   2932 R 100.0  85.6   1:18.26 mem.bash
+    136 root      20   0       0      0      0 S  37.5   0.0   0:00.64 kswapd0
+    602 root      20   0 1704980  24288  16308 S  31.2   0.3   0:00.23 containerd
+      7 root      20   0       0      0      0 I  12.5   0.0   0:00.48 kworker/u32:0-btrfs-endio
+      9 root      20   0       0      0      0 I  12.5   0.0   0:01.12 kworker/u32:1-btrfs-endio
+
+Time: 12:24:14 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    122.7 free,   6593.6 used,    223.9 buff/cache
+MiB Swap:   2048.0 total,   2039.4 free,      8.6 used.    102.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 6181044   5.9g   2932 R  93.8  86.9   1:19.45 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 6181044   5.9g   2932 R  93.8  86.9   1:19.45 mem.bash
+    136 root      20   0       0      0      0 S  25.0   0.0   0:00.83 kswapd0
+     14 root      -2   0       0      0      0 I   6.2   0.0   0:00.06 rcu_preempt
+   3147 maypok    20   0   10808   4100   3384 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220   8928   6104 S   0.0   0.1   0:00.68 systemd
+
+Time: 12:24:15 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    121.5 free,   6680.9 used,    137.9 buff/cache
+MiB Swap:   2048.0 total,   2036.7 free,     11.3 used.     55.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 6275556   6.0g   2928 R  93.8  88.2   1:20.69 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 6275556   6.0g   2928 R  93.8  88.2   1:20.69 mem.bash
+    136 root      20   0       0      0      0 S  62.5   0.0   0:01.15 kswapd0
+    156 root      20   0       0      0      0 I   6.2   0.0   0:00.49 kworker/u32:5-phy0
+   3174 maypok    20   0   10808   4044   3400 R   6.2   0.1   0:00.02 top
+      1 root      20   0  165220   6548   3724 S   0.0   0.1   0:00.68 systemd
+
+Time: 12:24:17 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    123.5 free,   6713.3 used,    103.3 buff/cache
+MiB Swap:   2048.0 total,   1941.1 free,    106.9 used.     41.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 6366372   6.1g   2800 R 100.0  89.5   1:21.92 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 6366372   6.1g   2800 R 100.0  89.5   1:21.92 mem.bash
+   3192 maypok    20   0   10808   4168   3456 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220   5260   2436 S   0.0   0.1   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:24:18 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    164.3 free,   6674.5 used,    101.3 buff/cache
+MiB Swap:   2048.0 total,   1753.5 free,    294.5 used.     81.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 6450192   6.0g   2800 R  93.8  88.9   1:23.13 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 6450192   6.0g   2800 R  93.8  88.9   1:23.13 mem.bash
+      7 root      20   0       0      0      0 I   6.2   0.0   0:00.49 kworker/u32:0-btrfs-endio
+      9 root      20   0       0      0      0 I   6.2   0.0   0:01.13 kworker/u32:1-btrfs-endio
+    153 root      20   0       0      0      0 I   6.2   0.0   0:00.38 kworker/u32:4-btrfs-endio
+    253 root      20   0       0      0      0 I   6.2   0.0   0:00.26 kworker/u32:7-btrfs-endio
+
+Time: 12:24:19 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    177.4 free,   6662.3 used,    100.5 buff/cache
+MiB Swap:   2048.0 total,   1609.2 free,    438.8 used.     94.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 6535068   6.0g   2800 R 100.0  88.0   1:24.32 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 6535068   6.0g   2800 R 100.0  88.0   1:24.32 mem.bash
+    136 root      20   0       0      0      0 S  93.3   0.0   0:02.39 kswapd0
+   1047 maypok    20   0 1567320   6280   5176 S   6.7   0.1   0:00.69 polybar
+      1 root      20   0  165220   5504   2680 S   0.0   0.1   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 12:24:20 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    155.2 free,   6681.4 used,    103.6 buff/cache
+MiB Swap:   2048.0 total,   1508.6 free,    539.4 used.     73.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 6618756   5.9g   2800 R  93.8  87.7   1:25.51 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 6618756   5.9g   2800 R  93.8  87.7   1:25.51 mem.bash
+   3251 maypok    20   0   10808   4152   3504 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220   5504   2680 S   0.0   0.1   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:24:21 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    183.3 free,   6656.3 used,    100.6 buff/cache
+MiB Swap:   2048.0 total,   1339.3 free,    708.6 used.    100.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 6703896   5.9g   2800 R 100.0  86.5   1:26.71 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 6703896   5.9g   2800 R 100.0  86.5   1:26.71 mem.bash
+    136 root      20   0       0      0      0 S  12.5   0.0   0:03.07 kswapd0
+      1 root      20   0  165220   5504   2680 S   0.0   0.1   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:24:23 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    176.4 free,   6665.2 used,     98.6 buff/cache
+MiB Swap:   2048.0 total,   1225.4 free,    822.6 used.     92.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 6788904   5.8g   2800 R 100.0  86.1   1:27.91 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 6788904   5.8g   2800 R 100.0  86.1   1:27.91 mem.bash
+   3283 maypok    20   0   10808   4044   3400 R  12.5   0.1   0:00.02 top
+      1 root      20   0  165220   5504   2680 S   0.0   0.1   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:24:24 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    151.3 free,   6658.3 used,    130.5 buff/cache
+MiB Swap:   2048.0 total,   1099.1 free,    948.9 used.     83.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 6871008   5.8g   2800 R  93.8  85.5   1:29.11 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 6871008   5.8g   2800 R  93.8  85.5   1:29.11 mem.bash
+     14 root      -2   0       0      0      0 I   6.2   0.0   0:00.07 rcu_preempt
+   3299 maypok    20   0   10808   4044   3392 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220   5504   2680 S   0.0   0.1   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 12:24:25 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    154.8 free,   6644.4 used,    141.0 buff/cache
+MiB Swap:   2048.0 total,    949.2 free,   1098.8 used.     92.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 6956016   5.7g   2800 R  93.8  84.5   1:30.33 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 6956016   5.7g   2800 R  93.8  84.5   1:30.33 mem.bash
+    136 root      20   0       0      0      0 R  81.2   0.0   0:04.09 kswapd0
+    647 root      20   0 1265448  51252   9116 S  12.5   0.7   0:05.60 Xorg
+      9 root      20   0       0      0      0 I   6.2   0.0   0:01.18 kworker/u32:1-btrfs-endio
+    145 root      20   0       0      0      0 I   6.2   0.0   0:00.61 kworker/u32:2-btrfs-endio
+
+Time: 12:24:26 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    116.9 free,   6683.0 used,    140.4 buff/cache
+MiB Swap:   2048.0 total,    873.7 free,   1174.3 used.     53.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 7045248   5.7g   2800 R 100.0  84.7   1:31.53 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 7045248   5.7g   2800 R 100.0  84.7   1:31.53 mem.bash
+   3342 maypok    20   0   10808   4104   3460 R   6.7   0.1   0:00.01 top
+      1 root      20   0  165220   5504   2680 S   0.0   0.1   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:24:28 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    130.7 free,   6671.5 used,    138.1 buff/cache
+MiB Swap:   2048.0 total,    734.0 free,   1314.0 used.     66.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 7129860   5.7g   2800 R  93.8  84.0   1:32.73 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 7129860   5.7g   2800 R  93.8  84.0   1:32.73 mem.bash
+   3358 maypok    20   0   10808   4156   3512 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220   5504   2680 S   0.0   0.1   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:24:29 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    116.2 free,   6685.5 used,    138.5 buff/cache
+MiB Swap:   2048.0 total,    620.1 free,   1427.9 used.     52.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 7215264   5.7g   2800 R  93.8  83.5   1:33.93 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 7215264   5.7g   2800 R  93.8  83.5   1:33.93 mem.bash
+      1 root      20   0  165220   5504   2680 S   0.0   0.1   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 12:24:30 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    154.0 free,   6651.2 used,    135.0 buff/cache
+MiB Swap:   2048.0 total,    442.6 free,   1605.4 used.     88.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 7296180   5.6g   2800 R 100.0  82.2   1:35.13 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 7296180   5.6g   2800 R 100.0  82.2   1:35.13 mem.bash
+   3401 maypok    20   0   10808   4132   3484 R   6.7   0.1   0:00.01 top
+      1 root      20   0  165220   5504   2680 S   0.0   0.1   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+
+Time: 12:24:31 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    190.9 free,   6617.8 used,    131.5 buff/cache
+MiB Swap:   2048.0 total,    257.1 free,   1790.9 used.    123.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 7383432   5.5g   2800 R  93.8  80.8   1:36.33 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 7383432   5.5g   2800 R  93.8  80.8   1:36.33 mem.bash
+     14 root      -2   0       0      0      0 I   6.2   0.0   0:00.08 rcu_preempt
+    136 root      20   0       0      0      0 S   6.2   0.0   0:05.89 kswapd0
+    647 root      20   0 1265448  43920   6616 S   6.2   0.6   0:05.62 Xorg
+   1047 maypok    20   0 1567320   5544   4440 S   6.2   0.1   0:00.75 polybar
+
+Time: 12:24:32 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    147.7 free,   6663.8 used,    128.7 buff/cache
+MiB Swap:   2048.0 total,    191.1 free,   1856.9 used.     79.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 7474776   5.5g   2800 R  87.5  81.1   1:37.53 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    136 root      20   0       0      0      0 R 100.0   0.0   0:06.09 kswapd0
+   1932 maypok    20   0 7474776   5.5g   2800 R  87.5  81.1   1:37.53 mem.bash
+   3433 maypok    20   0   10808   4124   3468 R   6.2   0.1   0:00.01 top
+      1 root      20   0  165220   5504   2680 S   0.0   0.1   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Time: 12:24:34 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    180.5 free,   6623.4 used,    136.4 buff/cache
+MiB Swap:   2048.0 total,      4.1 free,   2043.9 used.    115.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 7561632   5.4g   2800 R 100.0  79.7   1:38.74 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 7561632   5.4g   2800 R 100.0  79.7   1:38.74 mem.bash
+      1 root      20   0  165220   5504   2680 S   0.0   0.1   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+
+Time: 12:24:35 AM
+Informattion about memory:
+MiB Mem :   6940.2 total,    115.3 free,   6714.0 used,    110.9 buff/cache
+MiB Swap:   2048.0 total,      0.0 free,   2048.0 used.     37.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+Information about mem.bash:
+   1932 maypok    20   0 7655352   5.5g   2796 R  93.8  80.9   1:39.95 mem.bash
+Information about first five processes:
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1932 maypok    20   0 7655352   5.5g   2796 R  93.8  80.9   1:39.95 mem.bash
+    136 root      20   0       0      0      0 S   6.2   0.0   0:06.62 kswapd0
+   1047 maypok    20   0 1567320   5352   4248 S   6.2   0.1   0:00.77 polybar
+      1 root      20   0  165220   5484   2660 S   0.0   0.1   0:00.68 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+
+Last info in dmesg: 
+[  163.397912] Out of memory: Killed process 1932 (mem.bash) total-vm:7728744kB, anon-rss:5820796kB, file-rss:0kB, shmem-rss:0kB, UID:1000 pgtables:15160kB oom_score_adj:0
+[  164.463505] oom_reaper: reaped process 1932 (mem.bash), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
